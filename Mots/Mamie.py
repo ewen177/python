@@ -1,0 +1,11 @@
+espaces = ' ' * 25
+print(f'{espaces} 104 le petit Kergaté')
+print(f'{espaces} Sulniac')
+print()
+print()
+print('Ma très chère mamie,')
+print()
+print('Je me permet de te contacter pour te prévenir que tu me manque énormément !')
+print()
+print('Je te fais d\'énormes bisous')
+print('Ewen')

@@ -1,0 +1,5 @@
+accueil = input("Bienvenue sur le programme qui te donnera les règles pour le défi (appuie sur la touche entrée pour passer à la suite), si tu ne fais pas le défi, ferme ce programme ")
+defi = input("Tu as donc choisi de faire le défi, je vais donc te donner les règles pour pouvoir le faire ")
+regle1 = input("Pour commencer, tu dois avoir un(e) ami(e) à côté de toi pour faire le défi, si tu n'as pas d'ami(e), tu ne peux donc pas faire ce défi, ferme alors ce programme ")
+regle2 = input("Tu disposeras de 50 minutes pour faire un programme à l'aide de captures d'écrans d'un programme pour t'aider ")
+regle3 = input("Pour faire le programme, il te faut installer le logiciel de codage Thonny disponible sur internet (il n'y a pas besoin d'accord de l'administrateur système pour installer Thonny")
